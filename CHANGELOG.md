@@ -1,5 +1,7 @@
 # nginx cookbook changelog
-
+# 1.0.1
+  - ENHANCEMENT: add zero downtime by implementing reload
+  
 # 1.0.0
   - Website configuration must be in conf.d
 
