@@ -23,4 +23,4 @@ matrix:
       - /opt/chefdk/embedded/bin/chef --version
       - /opt/chefdk/embedded/bin/cookstyle --version
     - script:
-      - /opt/chefkd/embedded/bin/chef exec cookstyle
+      - /opt/chefdk/embedded/bin/chef exec cookstyle
