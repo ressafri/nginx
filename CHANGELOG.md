@@ -5,4 +5,4 @@
 - part of safarionline course on chef
 
 # 0.1.1
-  - Integrating with travis CI
+  - Integrating build with travis CI
